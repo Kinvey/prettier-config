@@ -1,0 +1,20 @@
+{
+  "name": "@progresskinvey/prettier-config",
+  "license": "Apache-2.0",
+  "version": "0.1.0",
+  "description": "Prettier config for Kinvey",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kinvey/prettier-config.git"
+  },
+  "keywords": [
+    "prettier"
+  ],
+  "author": "Kinvey, Inc.",
+  "bugs": {
+    "url": "https://github.com/Kinvey/prettier-config/issues"
+  },
+  "homepage": "https://github.com/Kinvey/prettier-config#readme"
+}
