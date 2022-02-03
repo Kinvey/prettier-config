@@ -1,4 +1,4 @@
-# `@progresskinvey/prettier-config`
+# Prettier config for Progress Kinvey
 
 ## Usage
 
