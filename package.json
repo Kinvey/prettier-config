@@ -1,7 +1,7 @@
 {
   "name": "@progresskinvey/prettier-config",
   "license": "Apache-2.0",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Prettier config for Kinvey",
   "main": "index.js",
   "scripts": {},
